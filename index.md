@@ -3,4 +3,6 @@
 This is to be filled in with personal content.
 
 ### Essays
-[a relative link](essay1.md)
+[a relative link][def]
+
+[def]: essay1.md
